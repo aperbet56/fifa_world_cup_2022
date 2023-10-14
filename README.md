@@ -7,7 +7,7 @@ Une fois sur la page web, l'ulisateur voit apparaître le calendrier des matchs 
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/fifa_world_cup_2022/
 
 ## Développez avec
 
