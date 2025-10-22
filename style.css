@@ -65,7 +65,14 @@ header h2 {
     font-weight: bold;
     width: 360px;
     height: auto;
-    transition: box-shadow 0.3s ease-in-out;
+    opacity: 0;
+    translate: -50%;
+    transition: all 0.3s ease-in-out;
+}
+
+.match.show {
+    opacity: 1;
+    translate: 0;
 }
 
 .match:hover {
