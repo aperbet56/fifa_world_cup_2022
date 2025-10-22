@@ -1,5 +1,6 @@
 // Récupération de l'élément section
 const section = document.querySelector(".container");
+const footerYear = document.querySelector(".footer__year");
 
 // Création de la variable dataArray qui va stocker les données renvoyées par l'API
 let dataArray = [];
@@ -23,9 +24,7 @@ const fetchMatch = async () => {
     })
     .catch(function (err) {
       // Affichage d'un message d'erreur dans la console
-      console.log(
-        "Désolé, une erreur s'est produite. Veuillez réessayer plus tard!"
-      );
+      console.error(err);
     });
 };
 // Appel de la fonction fetchMatch
@@ -80,3 +79,14 @@ const displayMatchCalendar = (dataArray) => {
     `;
   }
 };
+
+// Déclaration de la fonction getCurrentYear qui va permettre l'affichage de l'année courante dans le footer
+const getCurrentYear = () => {
+  const date = new Date();
+  // console.log(date);
+  const year = date.getFullYear();
+  // console.log(year);
+  footerYear.textContent = `${year}`;
+};
+// Appel de la fonction getCurrentYear()
+getCurrentYear();
