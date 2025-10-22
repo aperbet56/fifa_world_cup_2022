@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: sans-serif;
-    background-color: #962137; 
+    background-color: #962137;
     color: #f7f7f7;
 }
 
@@ -58,20 +58,18 @@ header h2 {
 }
 
 .match {
-    background-color: #f7f7f7;
+    background-color: #eeeeee;
     padding: 24px;
     border-radius: 10px;
     font-size: 17px;
     font-weight: bold;
     width: 360px;
     height: auto;
-    transform: scale(1);
-    transition: all 0.3s ease-in-out;
+    transition: box-shadow 0.3s ease-in-out;
 }
 
 .match:hover {
-    transform: scale(1.03);
-    box-shadow: 0 3px 5px 8px rgba(247, 235, 235, 0.692);
+    box-shadow: 0 2px 3px 3px rgba(247, 235, 235, 0.69);
 }
 
 .match__info {
@@ -95,24 +93,29 @@ header h2 {
     text-align: center;
 }
 
-.home__flag, .away__flag, .home__flag__description, .away__flag__description {
+.home__flag,
+.away__flag,
+.home__flag__description,
+.away__flag__description {
     width: 100px;
 }
 
-.home__flag__description, .away__flag__description {
+.home__flag__description,
+.away__flag__description {
     height: 68px;
 }
 
-.home__flag__description img, .away__flag__description img {
+.home__flag__description img,
+.away__flag__description img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
 .vs {
-    position: absolute; 
+    position: absolute;
     bottom: 30px;
-    left: 50%; 
+    left: 50%;
     transform: translateX(-50%);
     font-size: 40px;
 }
@@ -136,7 +139,7 @@ footer {
     margin: 25px 15px;
 }
 
-footer span {
+footer p {
     text-align: center;
     font-size: 18px;
     font-weight: bold;
@@ -172,15 +175,20 @@ footer span {
         font-size: 17px;
     }
 
-    .home__flag, .away__flag, .home__flag__description, .away__flag__description {
+    .home__flag,
+    .away__flag,
+    .home__flag__description,
+    .away__flag__description {
         width: 75px;
     }
 
-    .home__flag__description, .away__flag__description { 
+    .home__flag__description,
+    .away__flag__description {
         height: 58px;
     }
 
-    .home__team, .away__team {
+    .home__team,
+    .away__team {
         font-size: 15px;
     }
 
