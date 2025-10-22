@@ -20,4 +20,5 @@ Lien vers le projet : https://aperbet56.github.io/fifa_world_cup_2022/
 - fifa-world-cup.json (json = JavaScript object notation)
 - JavaScript (fetch, fonctions fléchées, boucle for...)
 - Code JavaScript commenté
+- new IntersectionObserver
 - Desktop first
