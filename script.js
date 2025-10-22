@@ -78,6 +78,36 @@ const displayMatchCalendar = (dataArray) => {
     </article>
     `;
   }
+
+  // Déclaration de la fonction handleIntersect ayant comme paramètres entries et observer
+  const handleIntersect = (entries, observer) => {
+    // Pour chaque entrée
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("show");
+        // La méthode unobserve() de l'interface IntersectionObserver indique à l'objet IntersectionObserver courant de cesser d'observer l'élément cible spécifié.
+        observer.unobserve(entry.target);
+      } else {
+        entry.target.classList.remove("show");
+      }
+    });
+  };
+
+  // Création de l'objet options qui va définir les options de mon intersectionObserver
+  const options = {
+    root: null,
+    rootMargin: "0px", // marges sur les 4 côtés de la zone d'affichage
+    threshold: 0.5,
+  };
+
+  // Création d'un nouvel observateur en appelant le constructeur IntersectionObserver() en précisant une fonction callback à appeler quand l'intersection franchit l'un de des paliers, handleIntersect(), et mon ensemble d'options.
+  const observer = new IntersectionObserver(handleIntersect, options);
+
+  // Récupération de tous les articles ayant la classe match
+  const allMatches = document.querySelectorAll(".match");
+
+  // // Surveiller l'évolution de la visibilité de l'intersection de plusieurs éléments par rapport au viewport en appelant observer.observe() pour chacun de ces éléments.
+  allMatches.forEach((match) => observer.observe(match));
 };
 
 // Déclaration de la fonction getCurrentYear qui va permettre l'affichage de l'année courante dans le footer
