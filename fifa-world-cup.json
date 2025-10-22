@@ -246,8 +246,8 @@
         "HomeTeam": "Wales",
         "AwayTeam": "Iran",
         "flag": [
-            "https://world-cup.codsfli.com/flag/WAL.png",
-            "https://world-cup.codsfli.com/flag/IRN.png"
+            "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
         ],
         "Group": "Group B",
         "HomeTeamScore": null,
@@ -261,8 +261,8 @@
         "HomeTeam": "Qatar",
         "AwayTeam": "Senegal",
         "flag": [
-            "https://world-cup.codsfli.com/flag/QAT.png",
-            "https://world-cup.codsfli.com/flag/SEN.png"
+            "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
         ],
         "Group": "Group A",
         "HomeTeamScore": null,
@@ -276,8 +276,8 @@
         "HomeTeam": "Netherlands",
         "AwayTeam": "Ecuador",
         "flag": [
-            "https://world-cup.codsfli.com/flag/NED.png",
-            "https://world-cup.codsfli.com/flag/ECU.png"
+            "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
         ],
         "Group": "Group A",
         "HomeTeamScore": null,
@@ -291,8 +291,8 @@
         "HomeTeam": "England",
         "AwayTeam": "USA",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ENG.png",
-            "https://world-cup.codsfli.com/flag/USA.png"
+            "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+            "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
         ],
         "Group": "Group B",
         "HomeTeamScore": null,
@@ -306,8 +306,8 @@
         "HomeTeam": "Tunisia",
         "AwayTeam": "Australia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/TUN.png",
-            "https://world-cup.codsfli.com/flag/AUS.png"
+            "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+            "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
         ],
         "Group": "Group D",
         "HomeTeamScore": null,
@@ -321,8 +321,8 @@
         "HomeTeam": "Poland",
         "AwayTeam": "Saudi Arabia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POL.png",
-            "https://world-cup.codsfli.com/flag/KSA.png"
+            "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
         ],
         "Group": "Group C",
         "HomeTeamScore": null,
@@ -336,8 +336,8 @@
         "HomeTeam": "France",
         "AwayTeam": "Denmark",
         "flag": [
-            "https://world-cup.codsfli.com/flag/FRA.png",
-            "https://world-cup.codsfli.com/flag/DEN.png"
+            "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
         ],
         "Group": "Group D",
         "HomeTeamScore": null,
@@ -351,8 +351,8 @@
         "HomeTeam": "Argentina",
         "AwayTeam": "Mexico",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ARG.png",
-            "https://world-cup.codsfli.com/flag/MEX.png"
+            "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
         ],
         "Group": "Group C",
         "HomeTeamScore": null,
@@ -366,8 +366,8 @@
         "HomeTeam": "Japan",
         "AwayTeam": "Costa Rica",
         "flag": [
-            "https://world-cup.codsfli.com/flag/JPN.png",
-            "https://world-cup.codsfli.com/flag/CRC.png"
+            "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
         ],
         "Group": "Group E",
         "HomeTeamScore": null,
@@ -381,8 +381,8 @@
         "HomeTeam": "Belgium",
         "AwayTeam": "Morocco",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BEL.png",
-            "https://world-cup.codsfli.com/flag/MAR.png"
+            "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
         ],
         "Group": "Group F",
         "HomeTeamScore": null,
@@ -396,8 +396,8 @@
         "HomeTeam": "Croatia",
         "AwayTeam": "Canada",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRO.png",
-            "https://world-cup.codsfli.com/flag/CAN.png"
+            "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg"
         ],
         "Group": "Group F",
         "HomeTeamScore": null,
@@ -411,8 +411,8 @@
         "HomeTeam": "Spain",
         "AwayTeam": "Germany",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ESP.png",
-            "https://world-cup.codsfli.com/flag/GER.png"
+            "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+            "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
         ],
         "Group": "Group E",
         "HomeTeamScore": null,
@@ -426,8 +426,8 @@
         "HomeTeam": "Cameroon",
         "AwayTeam": "Serbia",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CMR.png",
-            "https://world-cup.codsfli.com/flag/SRB.png"
+            "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
         ],
         "Group": "Group G",
         "HomeTeamScore": null,
@@ -438,11 +438,11 @@
         "RoundNumber": 2,
         "DateUtc": "2022-11-28 13:00:00Z",
         "Location": "Education City Stadium",
-        "HomeTeam": "Korea Republic",
+        "HomeTeam": "South Korea",
         "AwayTeam": "Ghana",
         "flag": [
-            "https://world-cup.codsfli.com/flag/KOR.png",
-            "https://world-cup.codsfli.com/flag/GHA.png"
+            "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
         ],
         "Group": "Group H",
         "HomeTeamScore": null,
@@ -456,8 +456,8 @@
         "HomeTeam": "Brazil",
         "AwayTeam": "Switzerland",
         "flag": [
-            "https://world-cup.codsfli.com/flag/BRA.png",
-            "https://world-cup.codsfli.com/flag/SUI.png"
+            "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
         ],
         "Group": "Group G",
         "HomeTeamScore": null,
@@ -471,8 +471,8 @@
         "HomeTeam": "Portugal",
         "AwayTeam": "Uruguay",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POR.png",
-            "https://world-cup.codsfli.com/flag/URU.png"
+            "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
         ],
         "Group": "Group H",
         "HomeTeamScore": null,
@@ -486,8 +486,8 @@
         "HomeTeam": "Ecuador",
         "AwayTeam": "Senegal",
         "flag": [
-            "https://world-cup.codsfli.com/flag/ECU.png",
-            "https://world-cup.codsfli.com/flag/SEN.png"
+            "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
         ],
         "Group": "Group A",
         "HomeTeamScore": null,
@@ -501,8 +501,8 @@
         "HomeTeam": "Netherlands",
         "AwayTeam": "Qatar",
         "flag": [
-            "https://world-cup.codsfli.com/flag/NED.png",
-            "https://world-cup.codsfli.com/flag/QAT.png"
+            "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
         ],
         "Group": "Group A",
         "HomeTeamScore": null,
@@ -516,8 +516,8 @@
         "HomeTeam": "Wales",
         "AwayTeam": "England",
         "flag": [
-            "https://world-cup.codsfli.com/flag/WAL.png",
-            "https://world-cup.codsfli.com/flag/ENG.png"
+            "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
+            "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
         ],
         "Group": "Group B",
         "HomeTeamScore": null,
@@ -531,8 +531,8 @@
         "HomeTeam": "Iran",
         "AwayTeam": "USA",
         "flag": [
-            "https://world-cup.codsfli.com/flag/IRN.png",
-            "https://world-cup.codsfli.com/flag/USA.png"
+            "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+            "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
         ],
         "Group": "Group B",
         "HomeTeamScore": null,
@@ -546,8 +546,8 @@
         "HomeTeam": "Australia",
         "AwayTeam": "Denmark",
         "flag": [
-            "https://world-cup.codsfli.com/flag/AUS.png",
-            "https://world-cup.codsfli.com/flag/DEN.png"
+            "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
         ],
         "Group": "Group D",
         "HomeTeamScore": null,
@@ -561,8 +561,8 @@
         "HomeTeam": "Tunisia",
         "AwayTeam": "France",
         "flag": [
-            "https://world-cup.codsfli.com/flag/TUN.png",
-            "https://world-cup.codsfli.com/flag/FRA.png"
+            "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+            "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
         ],
         "Group": "Group D",
         "HomeTeamScore": null,
@@ -576,8 +576,8 @@
         "HomeTeam": "Poland",
         "AwayTeam": "Argentina",
         "flag": [
-            "https://world-cup.codsfli.com/flag/POL.png",
-            "https://world-cup.codsfli.com/flag/ARG.png"
+            "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
         ],
         "Group": "Group C",
         "HomeTeamScore": null,
@@ -591,8 +591,8 @@
         "HomeTeam": "Saudi Arabia",
         "AwayTeam": "Mexico",
         "flag": [
-            "https://world-cup.codsfli.com/flag/KSA.png",
-            "https://world-cup.codsfli.com/flag/MEX.png"
+            "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
         ],
         "Group": "Group C",
         "HomeTeamScore": null,
@@ -606,8 +606,8 @@
         "HomeTeam": "Croatia",
         "AwayTeam": "Belgium",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRO.png",
-            "https://world-cup.codsfli.com/flag/BEL.png"
+            "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
         ],
         "Group": "Group F",
         "HomeTeamScore": null,
@@ -621,8 +621,8 @@
         "HomeTeam": "Canada",
         "AwayTeam": "Morocco",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CAN.png",
-            "https://world-cup.codsfli.com/flag/MAR.png"
+            "https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
         ],
         "Group": "Group F",
         "HomeTeamScore": null,
@@ -636,8 +636,8 @@
         "HomeTeam": "Japan",
         "AwayTeam": "Spain",
         "flag": [
-            "https://world-cup.codsfli.com/flag/JPN.png",
-            "https://world-cup.codsfli.com/flag/ESP.png"
+            "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+            "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
         ],
         "Group": "Group E",
         "HomeTeamScore": null,
@@ -651,8 +651,8 @@
         "HomeTeam": "Costa Rica",
         "AwayTeam": "Germany",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CRC.png",
-            "https://world-cup.codsfli.com/flag/GER.png"
+            "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+            "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
         ],
         "Group": "Group E",
         "HomeTeamScore": null,
@@ -666,8 +666,8 @@
         "HomeTeam": "Ghana",
         "AwayTeam": "Uruguay",
         "flag": [
-            "https://world-cup.codsfli.com/flag/GHA.png",
-            "https://world-cup.codsfli.com/flag/URU.png"
+            "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
         ],
         "Group": "Group H",
         "HomeTeamScore": null,
@@ -678,11 +678,11 @@
         "RoundNumber": 3,
         "DateUtc": "2022-12-02 15:00:00Z",
         "Location": "Education City Stadium",
-        "HomeTeam": "Korea Republic",
+        "HomeTeam": "South Korea",
         "AwayTeam": "Portugal",
         "flag": [
-            "https://world-cup.codsfli.com/flag/KOR.png",
-            "https://world-cup.codsfli.com/flag/POR.png"
+            "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
         ],
         "Group": "Group H",
         "HomeTeamScore": null,
@@ -696,8 +696,8 @@
         "HomeTeam": "Serbia",
         "AwayTeam": "Switzerland",
         "flag": [
-            "https://world-cup.codsfli.com/flag/SRB.png",
-            "https://world-cup.codsfli.com/flag/SUI.png"
+            "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
         ],
         "Group": "Group G",
         "HomeTeamScore": null,
@@ -711,8 +711,8 @@
         "HomeTeam": "Cameroon",
         "AwayTeam": "Brazil",
         "flag": [
-            "https://world-cup.codsfli.com/flag/CMR.png",
-            "https://world-cup.codsfli.com/flag/BRA.png"
+            "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+            "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
         ],
         "Group": "Group G",
         "HomeTeamScore": null,
