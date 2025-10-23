@@ -14,7 +14,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 3,
+        "MatchNumber": 2,
         "RoundNumber": 1,
         "DateUtc": "2022-11-21 13:00:00Z",
         "Location": "Khalifa International Stadium",
@@ -29,7 +29,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 2,
+        "MatchNumber": 3,
         "RoundNumber": 1,
         "DateUtc": "2022-11-21 16:00:00Z",
         "Location": "Al Thumama Stadium",
@@ -59,7 +59,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 8,
+        "MatchNumber": 5,
         "RoundNumber": 1,
         "DateUtc": "2022-11-22 10:00:00Z",
         "Location": "Lusail Stadium",
@@ -104,7 +104,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 5,
+        "MatchNumber": 8,
         "RoundNumber": 1,
         "DateUtc": "2022-11-22 19:00:00Z",
         "Location": "Al Janoub Stadium",
@@ -119,7 +119,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 12,
+        "MatchNumber": 9,
         "RoundNumber": 1,
         "DateUtc": "2022-11-23 10:00:00Z",
         "Location": "Al Bayt Stadium",
@@ -134,7 +134,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 11,
+        "MatchNumber": 10,
         "RoundNumber": 1,
         "DateUtc": "2022-11-23 13:00:00Z",
         "Location": "Khalifa International Stadium",
@@ -149,7 +149,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 10,
+        "MatchNumber": 11,
         "RoundNumber": 1,
         "DateUtc": "2022-11-23 16:00:00Z",
         "Location": "Al Thumama Stadium",
@@ -164,7 +164,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 9,
+        "MatchNumber": 12,
         "RoundNumber": 1,
         "DateUtc": "2022-11-23 19:00:00Z",
         "Location": "Ahmad Bin Ali Stadium",
@@ -479,7 +479,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 35,
+        "MatchNumber": 33,
         "RoundNumber": 3,
         "DateUtc": "2022-11-29 15:00:00Z",
         "Location": "Khalifa International Stadium",
@@ -494,7 +494,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 36,
+        "MatchNumber": 34,
         "RoundNumber": 3,
         "DateUtc": "2022-11-29 15:00:00Z",
         "Location": "Al Bayt Stadium",
@@ -509,7 +509,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 33,
+        "MatchNumber": 35,
         "RoundNumber": 3,
         "DateUtc": "2022-11-29 19:00:00Z",
         "Location": "Ahmad Bin Ali Stadium",
@@ -524,7 +524,7 @@
         "AwayTeamScore": null
     },
     {
-        "MatchNumber": 34,
+        "MatchNumber": 36,
         "RoundNumber": 3,
         "DateUtc": "2022-11-29 19:00:00Z",
         "Location": "Al Thumama Stadium",
